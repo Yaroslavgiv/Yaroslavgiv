@@ -9,7 +9,7 @@ In programming since 2018. I have been working in mobile development since 2021.
 * 🌍  I'm based in I live in St. Petersburg
 * ✉️  You can contact me at [my@dom-tuap.ru](mailto:my@dom-tuap.ru)
 * 🤝  I'm open to collaborating on Mobile development, possibly Python Web
-* ⚡  I am interested in aquascape and aviation.
+* ⚡  I am interested in aquascape and aviation. @Yaroslavrabochiy
 
 ### Skills
 
