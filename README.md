@@ -1,85 +1,157 @@
-Hi 👋 My name is Yaroslav Krasnukhin
-=================================
+👋 Hi, I’m Yaroslav Krasnukhin
 
-Flutter / Fullstack Developer with strong focus on architecture, clean code and cross-platform solutions.
+Fullstack Flutter Developer with experience in mobile, backend and web development.
+I build cross-platform applications with a strong focus on architecture, clean code and scalability.
 
-I build **mobile, web and backend systems** using Flutter, Dart, Python and GraphQL.  
-I care about **maintainability, scalability and clear separation of concerns**.
+👨‍💻 About Me
 
----
+💼 In programming since 2018
 
-## 👨‍💻 About me
+📱 Flutter development since 2021
 
-- 💼 In programming since **2018**
-- 📱 Mobile development (Flutter) since **2021**
-- 🧠 Experience with **backend, GraphQL APIs, databases**
-- 🎓 Teaching Python & mobile development (from zero to real projects)
-- 🌍 Based in **Saint Petersburg**
-- ✉️ Contact: **my@dom-tuap.ru**
+🧠 Fullstack mindset: Flutter → API → Database
 
----
+🎓 Teaching Python & mobile development (from zero to real projects)
 
-## 🚀 Key Projects
+🌍 Based in Saint Petersburg
 
-### 🏨 Hotel Booking System (Fullstack)
+✉️ Contact: my@dom-tuap.ru
 
-**End-to-end booking platform with shared GraphQL backend**
+🧩 What I Do
 
-- **Backend:** Node.js, TypeScript, Apollo GraphQL, TypeORM, SQLite  
-- **Mobile:** Flutter (Clean Architecture, BLoC)  
-- **Web:** React, TypeScript, Apollo Client  
+Flutter apps (Android, iOS, Windows, Web)
+
+Backend APIs (GraphQL / REST)
+
+Fullstack projects with shared backend
+
+Python development (bots, backend, computer vision basics)
+
+Architecture design & refactoring
+
+🚀 Key Projects
+🏨 Hotel Booking System (Fullstack)
+
+End-to-end booking platform with single GraphQL backend for all clients.
+
+Stack:
+
+Flutter (Clean Architecture, BLoC)
+
+Node.js + TypeScript + Apollo GraphQL
+
+React + TypeScript
+
+SQLite / PostgreSQL-ready
 
 🔗 Repositories:
-- [`hotel-booking-back`](https://github.com/Yaroslavgiv/hotel-booking-back)
-- [`hotel-booking-app`](https://github.com/Yaroslavgiv/hotel-booking-app)
-- [`hotel-booking-web`](https://github.com/Yaroslavgiv/hotel-booking-web)
 
-**Highlights:**
-- Single GraphQL API for all clients
-- Clean Architecture & Service Layer
-- Availability checks & booking invariants
-- Dockerized backend
+hotel-booking-back
 
----
+hotel-booking-app
 
-## 🧠 Core Skills
+hotel-booking-web
 
-### Mobile
-- Flutter (Android, iOS, Windows)
-- Dart
-- BLoC / Clean Architecture
-- Material Design
+✔ Architecture documentation
+✔ C4 diagrams
+✔ Service layer & business rules
 
-### Backend
-- Python (Flask, Django)
-- GraphQL (Apollo)
-- SQL (PostgreSQL, SQLite, MySQL)
-- REST / GraphQL API design
+📦 Kollibery (Mobile Platform)
 
-### Tools & Practices
-- Git / GitHub / GitLab
-- Linux
-- Docker
-- Figma
-- OpenCV (Computer Vision basics)
+Flutter-based mobile application with real-world structure and scaling approach.
 
----
+🔗 kollibery_mobail
 
-## 🤝 Open to
+🤖 Telegram Bots & Python Tools
 
-- Flutter / Mobile development
-- Fullstack projects
-- Python / Backend work
-- Long-term collaboration
+Python-based bots, utilities and experiments.
 
----
+Telegram bots
 
-## 📊 GitHub Stats
+Data processing
 
-<a href="http://www.github.com/yaroslavgiv">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaroslavgiv&show_icons=true&count_private=true&hide_border=true" />
-</a>
+Automation scripts
 
-<a href="http://www.github.com/yaroslavgiv">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaroslavgiv&hide_border=true" />
-</a>
+🔗 Example:
+
+bot_copy_web_pdf
+
+🧪 Experiments & Learning Projects
+
+Projects used for:
+
+learning new technologies
+
+testing ideas
+
+teaching and mentoring
+
+Examples:
+
+Flutter packages
+
+Python scripts
+
+CV / ML experiments
+
+🧠 Core Skills
+Mobile
+
+Flutter (Android, iOS, Windows, Web)
+
+Dart
+
+BLoC / Clean Architecture
+
+Material Design
+
+Backend
+
+Python (Flask, Django)
+
+Node.js
+
+GraphQL (Apollo)
+
+REST API design
+
+SQL (PostgreSQL, SQLite, MySQL)
+
+Tools & Practices
+
+Git / GitHub / GitLab
+
+Linux
+
+Docker
+
+Figma
+
+OpenCV (basics)
+
+🤝 Open to
+
+Flutter / Mobile development
+
+Fullstack projects
+
+Backend (Python / Node.js)
+
+Long-term collaboration & product development
+
+📊 GitHub Activity
+<a href="https://github.com/Yaroslavgiv"> <img src="https://github-readme-stats.vercel.app/api?username=yaroslavgiv&show_icons=true&count_private=true&hide_border=true" /> </a> <a href="https://github.com/Yaroslavgiv"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaroslavgiv&hide_border=true" /> </a>
+🎯 How to Read This Profile
+
+HR → overview, skills, key projects
+
+Tech Lead → architecture, repositories, code structure
+
+Flutter teams → mobile-first + backend understanding
+
+⭐ Final Note
+
+This profile represents real projects, not tutorials.
+I focus on clear architecture, maintainability and practical solutions.
+
+If you’re interested — feel free to explore repositories or contact me.
