@@ -4,7 +4,7 @@ Fullstack Flutter Developer with experience in mobile, backend and web developme
 I build production-ready cross-platform applications with a strong focus on architecture, clean code and scalability.
 
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 💼 In programming since 2018
 
@@ -18,7 +18,7 @@ I build production-ready cross-platform applications with a strong focus on arch
 
 ✉️ Contact: my@dom-tuap.ru
 
-🧩 What I Do
+## 🧩 What I Do
 
 Flutter apps (Android, iOS, Windows, Web)
 
@@ -30,7 +30,7 @@ Python development (bots, backend, computer vision basics)
 
 Architecture design & refactoring
 
-🚀 Key Projects
+## 🚀 Key Projects
 🏨 Hotel Booking System — Fullstack Case Study
 
 End-to-end booking platform with single GraphQL backend for all clients.
@@ -46,8 +46,6 @@ React + TypeScript
 SQLite / PostgreSQL-ready
 
 🔗 Repositories:
-
-🔗 Repositories:
 - [hotel-booking-back](https://github.com/Yaroslavgiv/hotel-booking-back)
 - [hotel-booking-app](https://github.com/Yaroslavgiv/hotel-booking-app)
 - [hotel-booking-web](https://github.com/Yaroslavgiv/hotel-booking-web)
@@ -60,7 +58,7 @@ SQLite / PostgreSQL-ready
 
 Flutter-based mobile application with real-world structure and scaling approach.
 
-🔗 kollibery_mobail
+🔗 [kollibery_mobail](https://github.com/Yaroslavgiv/kollibery_mobail)
 
 🤖 Telegram Bots & Python Tools
 
@@ -74,7 +72,8 @@ Automation scripts
 
 🔗 Example:
 
-bot_copy_web_pdf
+🔗 Example:
+- [bot_copy_web_pdf](https://github.com/Yaroslavgiv/bot_copy_web_pdf)
 
 🧪 Experiments & Learning Projects
 
@@ -94,8 +93,9 @@ Python scripts
 
 CV / ML experiments
 
-🧠 Core Skills
-Mobile
+## 🧠 Core Skills
+
+### Mobile
 
 Flutter (Android, iOS, Windows, Web)
 
@@ -105,7 +105,7 @@ BLoC / Clean Architecture
 
 Material Design
 
-Backend
+### Backend
 
 Python (Flask, Django)
 
@@ -117,7 +117,7 @@ REST API design
 
 SQL (PostgreSQL, SQLite, MySQL)
 
-Tools & Practices
+### Tools & Practices
 
 Git / GitHub / GitLab
 
@@ -129,7 +129,7 @@ Figma
 
 OpenCV (basics)
 
-🤝 Open to
+## 🤝 Open to
 
 Flutter / Mobile development
 
@@ -139,9 +139,9 @@ Backend (Python / Node.js)
 
 Long-term collaboration & product development
 
-📊 GitHub Activity
+## 📊 GitHub Activity
 <a href="https://github.com/Yaroslavgiv"> <img src="https://github-readme-stats.vercel.app/api?username=yaroslavgiv&show_icons=true&count_private=true&hide_border=true" /> </a> <a href="https://github.com/Yaroslavgiv"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaroslavgiv&hide_border=true" /> </a>
-🎯 How to Read This Profile
+## 🎯 How to Read This Profile
 
 HR → overview, skills, key projects
 
@@ -149,7 +149,7 @@ Tech Lead → architecture, repositories, code structure
 
 Flutter teams → mobile-first + backend understanding
 
-⭐ Final Note
+## ⭐ Final Note
 
 This profile represents real projects, not tutorials.
 I focus on clear architecture, maintainability and practical solutions.
