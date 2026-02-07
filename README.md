@@ -1,7 +1,8 @@
 👋 Hi, I’m Yaroslav Krasnukhin
 
 Fullstack Flutter Developer with experience in mobile, backend and web development.
-I build cross-platform applications with a strong focus on architecture, clean code and scalability.
+I build production-ready cross-platform applications with a strong focus on architecture, clean code and scalability.
+
 
 👨‍💻 About Me
 
@@ -11,7 +12,7 @@ I build cross-platform applications with a strong focus on architecture, clean c
 
 🧠 Fullstack mindset: Flutter → API → Database
 
-🎓 Teaching Python & mobile development (from zero to real projects)
+🎓 Teaching Python & mobile development (from fundamentals to real-world projects)
 
 🌍 Based in Saint Petersburg
 
@@ -30,7 +31,7 @@ Python development (bots, backend, computer vision basics)
 Architecture design & refactoring
 
 🚀 Key Projects
-🏨 Hotel Booking System (Fullstack)
+🏨 Hotel Booking System — Fullstack Case Study
 
 End-to-end booking platform with single GraphQL backend for all clients.
 
@@ -46,11 +47,10 @@ SQLite / PostgreSQL-ready
 
 🔗 Repositories:
 
-hotel-booking-back
-
-hotel-booking-app
-
-hotel-booking-web
+🔗 Repositories:
+- [hotel-booking-back](https://github.com/Yaroslavgiv/hotel-booking-back)
+- [hotel-booking-app](https://github.com/Yaroslavgiv/hotel-booking-app)
+- [hotel-booking-web](https://github.com/Yaroslavgiv/hotel-booking-web)
 
 ✔ Architecture documentation
 ✔ C4 diagrams
